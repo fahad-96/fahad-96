@@ -49,14 +49,12 @@ Currently pursuing my **B.E. in Computer Science & Engineering** at *The Nationa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fahad-96&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-96&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🌈 Aesthetics & Vibe
-> _"Creativity meets precision — building interfaces that don’t just look good, but feel right."_  
-> — **Fahad Yousuf**
+### Vibe  
+ 💭 *All iz Well — with Probability*  <img src="https://latex.codecogs.com/svg.image?\large&space;\color{white}e^{2i\pi%20k},\quad%20k\in\mathbb{Z}" alt="e^{2 i π k}, k ∈ ℤ" />
 
 ---
 
