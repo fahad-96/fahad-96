@@ -46,9 +46,10 @@ Currently pursuing my **B.E. in Computer Science & Engineering** at *The Nationa
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-96&show_icons=true&theme=radical&hide_border=true" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-96&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad-96&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-96&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
