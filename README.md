@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Portfolio  
-🎨 **Live Website:** [fahad-96.github.io](https://fahad-96.github.io)  
+🎨 **Live Website:** [fahad-96.github.io](https://fahad-96.github.io/portfolio/)  
 💼 **LinkedIn:** [linkedin.com/in/fahadyousufcse](https://linkedin.com/in/fahadyousufcse)  
 📬 **Email:** [fahadyousuf101@gmail.com](mailto:fahadyousuf101@gmail.com)
 
