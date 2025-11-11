@@ -7,12 +7,15 @@
 
 ---
 
-### 🌐 Portfolio  
-🎨 **Live Website:** [fahad-96.github.io](https://fahad-96.github.io/portfolio/)  
-💼 **LinkedIn:** [linkedin.com/in/fahadyousufcse](https://linkedin.com/in/fahadyousufcse)  
-📬 **Email:** [fahadyousuf101@gmail.com](mailto:fahadyousuf101@gmail.com)
+### Quick Links  
+<p align="center">
+  <a href="https://fahad-96.github.io/portfolio/" target="_blank">My Webpage</a> &nbsp; | &nbsp; 
+  <a href="https://linkedin.com/in/fahadyousufcse" target="_blank">LinkedIn</a> &nbsp; | &nbsp; 
+  <a href="mailto:fahadyousuf101@gmail.com">Email</a>
+</p>
 
 ---
+
 
 ### 🚀 About Me
 I'm a **Computer Science Engineer** passionate about creating interactive, user-focused, and performance-optimized web solutions.  
